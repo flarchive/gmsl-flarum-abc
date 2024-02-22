@@ -1,0 +1,11 @@
+# Ignore composer vendor directory
+/vendor/
+/node_modules/
+.env
+.idea/
+*.iml
+*.log
+*.sql
+*.sqlite
+.DS_Store
+Thumbs.db
