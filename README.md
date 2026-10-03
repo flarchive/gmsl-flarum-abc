@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of gmsl/flarum-abc.** Not for installation: use [Packagist](https://packagist.org/packages/gmsl/flarum-abc) or the [upstream repository](https://github.com/gmsl/flarum-abc).
 
-**0** versions archived · Latest: [`v0.6`](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.6) · Flarum: `^1.8`
+**6** versions archived · Latest: [`v0.6`](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.6) · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1` | 2024-02-20 | `^0.1.0` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.1) |
+| `v0.2` | 2024-02-20 | `^1.1.0` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.2) |
+| `v0.3` | 2024-02-20 | `^1.8` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.3) |
+| `v0.4` | 2024-02-20 | `^1.8` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.4) |
+| `v0.5` | 2024-02-20 | `^1.8` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.5) |
+| `v0.6` | 2024-02-22 | `^1.8` | [Browse](https://github.com/flarchive/gmsl-flarum-abc/tree/archive/v0.6) |
 
 Catalog entry: [packages/gmsl-flarum-abc.json](https://github.com/flarchive/archive-index/blob/main/packages/gmsl-flarum-abc.json)
 
